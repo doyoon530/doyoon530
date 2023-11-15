@@ -16,7 +16,7 @@ for idx, entrie in enumerate(rss_feed['entries']):
 
 preREADME = """
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&show_icons=true&theme=radical)
-![NAVER Blog](http://img.shields.io/badge/-Tistory%20Blog-blue?style=flat&logo=Blogger&link=https://blog.naver.com/kimdu001)](https://blog.naver.com/kimdu001
+![NAVER Blog(https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimdu001)](https://blog.naver.com/kimdu001)
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
