@@ -1,4 +1,4 @@
-Dissertation<br>
+논문 Dissertation<br>
 자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증<br>
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&show_icons=true&theme=radical)<br>
