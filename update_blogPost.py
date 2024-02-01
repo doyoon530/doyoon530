@@ -28,7 +28,7 @@ preREADME = """
 제 1회 ART-AWS 리빙랩글로컬 해커톤 🥈<br><br>
 
 ## 연결 Link<br>
-[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimdu001)](https://blog.naver.com/kimdu001)
+[<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/kimdu001)
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
