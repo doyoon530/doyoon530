@@ -8,8 +8,10 @@
 [자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)<br><br>
 
 ## 대회 Competition<br>
-제 1회 ART-AWS 리빙랩글로컬 해커톤 🥈<br><br>
-
+#### 제 1회 ART-AWS 리빙랩글로컬 해커톤 🥈
++ 최우수상
++ 수상 날짜 : 2024년 1월
+<br><br>
 ## 연결 Link<br>
 [<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/kimdu001)
 
