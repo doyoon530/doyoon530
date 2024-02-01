@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
 
 ## 논문 Dissertation<br>
 [자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)<br><br>
