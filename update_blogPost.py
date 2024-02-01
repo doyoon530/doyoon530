@@ -15,7 +15,11 @@ for idx, entrie in enumerate(rss_feed['entries']):
   latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
 
 preREADME = """
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact) <br>
+
+## 스킬 Skills<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<br><br>
 
 ## 논문 Dissertation<br>
 [자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)<br><br>
