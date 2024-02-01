@@ -18,7 +18,7 @@ preREADME = """
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact) <br>
 
 ## 스킬 Skills<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <br><br>
 
 ## 논문 Dissertation<br>
