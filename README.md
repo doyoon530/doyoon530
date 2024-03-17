@@ -7,8 +7,8 @@
 <br><br>
 
 ## 논문 Dissertation<br>
-[자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)<br>
-[저비용 6축 IMU센서를 이용한 양치구역 추정을 위한 기계학습 모델 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)
+[자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://scholarworks.gnu.ac.kr/handle/sw.gnu/69179)<br>
+[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://scholarworks.gnu.ac.kr/handle/sw.gnu/69950)
 <br><br>
 ## 대회 Competition<br>
 #### 제 1회 ART-AWS 리빙랩글로컬 해커톤 🥈
