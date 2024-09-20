@@ -11,7 +11,7 @@
 [A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://scholarworks.gnu.ac.kr/handle/sw.gnu/69950)
 <br><br>
 ## 대회 Competition<br>
-#### 제 1회 ART-AWS 리빙랩글로컬 해커톤 🥈
+#### 제 1회 ART-AWS 아마존 웹서비스 리빙랩글로컬 해커톤 🥈
 + 최우수상
 + 수상 날짜 : 2024년 1월
 <br><br>
