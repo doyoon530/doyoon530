@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact&hide=jupyter%20notebook&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoon530&layout=compact&hide=jupyter%20notebook&theme=nord)
 
 
 ## 스킬 Skills<br>
