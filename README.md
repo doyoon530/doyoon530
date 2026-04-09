@@ -10,7 +10,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/doyoon530?style=for-the-badge&logo=github)](https://github.com/doyoon530)
 [![Profile Views](https://komarev.com/ghpvc/?username=doyoon530&style=for-the-badge)](https://github.com/doyoon530)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyoon530&count_bg=%233D7EFF&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
