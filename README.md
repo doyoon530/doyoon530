@@ -63,5 +63,3 @@
 ---
 
 ## 📫 Contact
-* **Email:** [본인의 이메일]
-* **Link:** [LinkedIn 또는 Blog]
