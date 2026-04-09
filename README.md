@@ -1,64 +1,144 @@
 <div align="center">
 
-# DOYOON KIM
-**AI & Data Engineering Student**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DOYOON%20KIM&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=AI%20%26%20Data%20Engineering%20Student&descAlign=50&descAlignY=62" />
+
+<br>
+
+### 데이터를 통해 현실의 문제를 해결하는 AI 시스템을 구현합니다
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/doyoon530?style=for-the-badge&logo=github)](https://github.com/doyoon530)
+[![Profile Views](https://komarev.com/ghpvc/?username=doyoon530&style=for-the-badge)](https://github.com/doyoon530)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyoon530&count_bg=%233D7EFF&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Embedded+Sensor+Data+Analysis;Practical+AI+System+Design;Speech+AI+%2F+Healthcare+AI+%2F+Applied+ML;Research+Idea+to+Working+System)](https://git.io/typing-svg)
+
+<br>
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doyoon530&layout=compact&theme=nord&hide=jupyter%20notebook)](https://github.com/doyoon530)
-
-임베디드 센서 데이터 분석과 실무적인 AI 모델 설계에 관심을 두고 공부하고 있습니다.  
-데이터를 통해 일상의 문제를 해결하는 과정을 기록합니다.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoon530&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/doyoon530)
 
 </div>
 
 ---
 
-## 📄 Research & Publications
+## 👋 About Me
 
-### Journal
-* **[Prediction of Toothbrushing Position Based on Gyro Sensor Data and its Validation Using Unsupervised Learning-based Clustering](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**
-  * *Journal of KIPS (KCI 우수등재)* | 2023.12
-  * 6축 IMU 센서 데이터 기반 양치 위치 추정 알고리즘 및 비지도 학습을 통한 검증 연구 로직 설계
+안녕하세요.  
+저는 **임베디드 센서 데이터 분석**과 **실용적인 AI 시스템 설계**에 관심을 두고 공부하는 학생입니다.
 
-### Conference
-* **[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)**
-  * *International Conference on Platform Technology and Service (PlatCon)*
+단순히 모델을 구현하는 것에 그치지 않고,  
+**데이터 수집 → 분석 로직 설계 → 모델 적용 → 사용자 인터페이스 구현**까지 이어지는  
+전체 시스템을 만드는 것을 좋아합니다.
 
----
-
-## 💻 Key Projects
-
-### [Dr-GNU: Conversational Dementia Care AI](https://github.com/doyoon530/Dr-GNU)
-* **Description:** 음성 상호작용을 통해 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션
-* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white">
-* **Role:** 음성 데이터를 활용한 인지 기능 리스크 분석 알고리즘 및 대화형 인터페이스 구현
-
-### [Llama-STT Chatbot](https://github.com/doyoon530/Llama_STT_chatbot)
-* **Description:** 웹 환경에서 실시간 음성 인식(STT) 및 Llama 2 모델을 연동한 대화형 AI 챗봇
-* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Meta-Llama--2-041028?style=flat-square&logo=meta&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI--Whisper-412991?style=flat-square&logo=openai&logoColor=white">
-* **Role:** 로컬 LLM 환경 구축 및 음성-텍스트 변환 파이프라인 설계를 통한 대화형 챗봇 개발
-
-### [IMU Clustering Implementation (kmeans_pca5)](https://github.com/doyoon530/kmeans_pca5)
-* **Description:** IMU 자이로 데이터를 기반으로 양치 구역을 추정하는 클러스터링 핵심 로직 (**KCI 논문 구현체**)
-* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black">
-* **Role:** 차원 축소 및 비지도 학습 기반 행동 패턴 군집화 알고리즘 검증
+- 🎓 경상국립대학교 **AI융합공학과**
+- 📊 관심 분야: **AI, Data Engineering, Embedded Sensor Data Analysis, Applied Machine Learning**
+- 🧠 주요 키워드: **음성 기반 분석, 헬스케어 AI, 센서 데이터 처리, 실용적 AI 서비스**
+- 🔍 목표: **연구 아이디어를 실제로 동작하는 시스템으로 연결하는 개발자**
 
 ---
 
 ## 🛠 Skills
 
 ### Strong
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white">
+<div align="center">
+
+[![Strong Skills](https://skillicons.dev/icons?i=py,flask,pytorch,sklearn,kotlin,androidstudio)](https://skillicons.dev)
+
+**Python · Flask · PyTorch · scikit-learn · Kotlin · Android Development**
+
+</div>
+
+<br>
 
 ### Knowledgeable
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<div align="center">
+
+[![Knowledgeable Skills](https://skillicons.dev/icons?i=cpp,js,nodejs,html,git,github,vscode)](https://skillicons.dev)
+
+**C++ · JavaScript · Node.js · HTML5 · Git · GitHub · VS Code**
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> 대표 프로젝트를 먼저 보여주고,  
+> 각 저장소가 어떤 방향의 작업인지 한눈에 보이도록 구성했습니다.
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doyoon530&repo=Dr-GNU&theme=nord&hide_border=true)](https://github.com/doyoon530/Dr-GNU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doyoon530&repo=Llama_STT_chatbot&theme=nord&hide_border=true)](https://github.com/doyoon530/Llama_STT_chatbot)
+
+</div>
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doyoon530&repo=kmeans_pca5&theme=nord&hide_border=true)](https://github.com/doyoon530/kmeans_pca5)
+
+</div>
+
+| Project | Description | Tech Stack | Role |
+|---|---|---|---|
+| [**Dr-GNU: Conversational Dementia Care AI**](https://github.com/doyoon530/Dr-GNU) | 음성 상호작용을 기반으로 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션 | Python, JavaScript, Node.js, D3.js | 음성 데이터를 활용한 인지 리스크 분석 로직 설계 및 대화형 인터페이스 구현 |
+| [**Llama-STT Chatbot**](https://github.com/doyoon530/Llama_STT_chatbot) | 웹 환경에서 실시간 음성 인식과 로컬 LLM을 연동한 대화형 AI 챗봇 | Python, Flask, Llama, Whisper | 로컬 LLM 실행 환경 구축 및 음성-텍스트 변환 파이프라인 설계 |
+| [**IMU Clustering Implementation (kmeans_pca5)**](https://github.com/doyoon530/kmeans_pca5) | IMU 자이로 데이터를 기반으로 양치 구역을 추정하는 클러스터링 핵심 로직 구현체 | Python, scikit-learn, Matplotlib | 차원 축소 및 비지도 학습 기반 행동 패턴 군집화 알고리즘 검증 |
+
+---
+
+## 📄 Research & Publications
+
+### Journal
+**[Prediction of Toothbrushing Position Based on Gyro Sensor Data and its Validation Using Unsupervised Learning-based Clustering](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**  
+*Journal of KIPS (KCI 우수등재)* | **2023.12**
+
+- 6축 IMU 센서 데이터를 기반으로 양치 위치를 추정하는 알고리즘 설계
+- 비지도 학습 기반 클러스터링을 통해 결과를 검증
+- 센서 기반 행동 추정 문제를 해석 가능한 형태로 다룬 연구
+
+### Conference
+**[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)**  
+*International Conference on Platform Technology and Service (PlatCon)*
+
+- 저비용 6축 IMU 센서를 활용한 칫솔 위치 추적 모델 연구
+- 센서 데이터 기반 행동 추정의 적용 가능성 검토
 
 ---
 
 ## 🏅 Achievements
 
-* **제 1회 ART-AWS 리빙랩 글로컬 해커톤 최우수상**
-  * LLM을 활용한 이용약관 요약 서비스 기획 및 프롬프트 엔지니어링 수행 (2024.01)
+### 제1회 ART-AWS 리빙랩 글로컬 해커톤 최우수상
+**2024.01**
+
+- LLM을 활용한 이용약관 요약 서비스 기획
+- 프롬프트 엔지니어링 및 서비스 구조 설계 수행
+
+---
+
+## 📚 Interests
+
+- 음성 기반 상태 분석
+- 헬스케어 AI
+- 센서 데이터 기반 행동 추정
+- 데이터 중심 문제 해결
+- 실용적인 AI 서비스 설계
+- 연구 아이디어의 시스템 구현
 
 ---
 
 ## 📫 Contact
+
+- **GitHub**: [@doyoon530](https://github.com/doyoon530)
+
+---
+
+<div align="center">
+
+### 기록보다 구현, 아이디어보다 동작하는 결과를 지향합니다.
+
+</div>
