@@ -26,6 +26,25 @@
 
 ---
 
+## 💻 Key Projects
+
+### [Dr-GNU: Smart Toothbrushing Feedback System](https://github.com/doyoon530/Dr-GNU)
+* **Description:** 6축 IMU 센서 데이터를 활용한 실시간 양치 위치 추정 및 피드백 시스템 (논문 연계 프로젝트)
+* **Tech:** Python, Kotlin, Scikit-learn, Android
+* **Role:** 센서 데이터 신호 처리 알고리즘 및 비지도 학습 기반의 위치 검증 로직 구현
+
+### [Llama-STT Chatbot](https://github.com/doyoon530/Llama_STT_chatbot)
+* **Description:** Llama 모델과 STT(Speech-to-Text) 기술을 결합한 음성 인식 대화형 챗봇
+* **Tech:** Python, Llama-3, OpenAI Whisper, LangChain
+* **Role:** 로컬 LLM 환경 구축 및 음성 데이터 기반 프롬프트 파이프라인 최적화
+
+### [K-means & PCA Analysis](https://github.com/doyoon530/kmeans_pca5)
+* **Description:** 고차원 데이터의 차원 축소(PCA) 및 클러스터링을 통한 데이터 구조 분석 실험
+* **Tech:** Python, Scikit-learn, Matplotlib, NumPy
+* **Role:** PCA를 통한 피처 엔지니어링 및 클러스터링 성능 지표 시각화 분석
+
+---
+
 ## 🛠 Skills
 
 ### Core
