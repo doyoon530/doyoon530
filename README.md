@@ -3,7 +3,7 @@
 # DOYOON KIM
 **AI & Data Engineering Student**
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doyoon530&layout=compact&theme=nord)](https://github.com/doyoon530)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doyoon530&layout=compact&theme=nord&hide=jupyter%20notebook)](https://github.com/doyoon530)
 
 임베디드 센서 데이터 분석과 실무적인 AI 모델 설계에 관심을 두고 공부하고 있습니다.  
 데이터를 통해 일상의 문제를 해결하는 과정을 기록합니다.
