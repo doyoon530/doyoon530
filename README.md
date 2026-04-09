@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DOYOON%20KIM&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=AI%20Data%20Engineering%20Student&descAlign=50&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DOYOON%20KIM&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Department%20of%20AI%20Information%20Engineering&descAlign=50&descAlignY=62" />
 
 <br>
 
@@ -61,9 +61,6 @@
 ---
 
 ## Featured Projects
-
-> 대표 프로젝트를 먼저 보여주고,  
-> 각 저장소가 어떤 방향의 작업인지 한눈에 보이도록 구성했습니다.
 
 ### [Dr-GNU: Conversational Dementia Care AI](https://github.com/doyoon530/Dr-GNU)
 음성 상호작용을 기반으로 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션  
