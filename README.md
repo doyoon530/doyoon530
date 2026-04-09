@@ -28,20 +28,20 @@
 
 ## 💻 Key Projects
 
-### [Dr-GNU: Smart Toothbrushing Feedback System](https://github.com/doyoon530/Dr-GNU)
-* **Description:** 6축 IMU 센서 데이터를 활용한 실시간 양치 위치 추정 및 피드백 시스템 (논문 연계 프로젝트)
-* **Tech:** Python, Kotlin, Scikit-learn, Android
-* **Role:** 센서 데이터 신호 처리 알고리즘 및 비지도 학습 기반의 위치 검증 로직 구현
+### [Dr-GNU: Conversational Dementia Care AI](https://github.com/doyoon530/Dr-GNU)
+* **Description:** 음성 상호작용을 통해 사용자의 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션
+* **Tech:** JavaScript, Node.js, AI Interaction
+* **Role:** 음성 인터페이스 구축 및 데이터 기반 인지 리스크 신호 분석 시스템 설계
 
 ### [Llama-STT Chatbot](https://github.com/doyoon530/Llama_STT_chatbot)
-* **Description:** Llama 모델과 STT(Speech-to-Text) 기술을 결합한 음성 인식 대화형 챗봇
-* **Tech:** Python, Llama-3, OpenAI Whisper, LangChain
-* **Role:** 로컬 LLM 환경 구축 및 음성 데이터 기반 프롬프트 파이프라인 최적화
+* **Description:** 웹 기반 실시간 음성 인식(STT) 및 Llama 2 모델을 연동한 대화형 AI 챗봇
+* **Tech:** Python, Llama-2, Speech-to-Text
+* **Role:** 대형언어모델(LLM) 서빙 및 로컬 환경에서의 음성-텍스트 변환 파이프라인 구축
 
-### [K-means & PCA Analysis](https://github.com/doyoon530/kmeans_pca5)
-* **Description:** 고차원 데이터의 차원 축소(PCA) 및 클러스터링을 통한 데이터 구조 분석 실험
-* **Tech:** Python, Scikit-learn, Matplotlib, NumPy
-* **Role:** PCA를 통한 피처 엔지니어링 및 클러스터링 성능 지표 시각화 분석
+### [IMU Clustering (kmeans_pca5)](https://github.com/doyoon530/kmeans_pca5)
+* **Description:** IMU 센서의 자이로 데이터를 분석하여 양치 위치를 판별하는 클러스터링 로직 (논문 핵심 알고리즘)
+* **Tech:** Python, Scikit-learn (K-means, PCA), Matplotlib
+* **Role:** 자이로 데이터 전처리, 특성 추출(Feature Extraction) 및 비지도 학습 기반 위치 분류 알고리즘 검증
 
 ---
 
