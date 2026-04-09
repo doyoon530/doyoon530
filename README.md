@@ -18,7 +18,6 @@
 * **[Prediction of Toothbrushing Position Based on Gyro Sensor Data and its Validation Using Unsupervised Learning-based Clustering](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**
   * *Journal of KIPS (KCI 우수등재)* | 2023.12
   * 6축 IMU 센서 데이터 기반 양치 위치 추정 알고리즘 및 비지도 학습을 통한 검증 연구 로직 설계
-  * **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white">
 
 ### Conference
 * **[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)**
