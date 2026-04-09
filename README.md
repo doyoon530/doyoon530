@@ -13,12 +13,13 @@ Python 기반의 AI 모델 설계와 임베디드 센서 데이터 분석에 강
 ---
 
 ## 🚀 Research & Publications
-> **학부 과정 중 KCI 우수등재지 게재 및 국제 학술대회 발표 등 검증된 연구 역량을 보유하고 있습니다.**
 
-### 🏆 Featured Paper (KCI 우수등재)
-* **[자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**
-  * *정보처리학회논문지 (KCI 우수등재)* | 2023.12
-  * 저비용 IMU 센서와 비지도 학습(Clustering)을 결합한 사용자 행동 분석 연구
+### 🏆 Peer-Reviewed Journal (KCI Excellent/Top-tier)
+* **[Prediction of Toothbrushing Position Based on Gyro Sensor Data and its Validation Using Unsupervised Learning-based Clustering](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**
+  * *Journal of KIPS (Korea Information Processing Society)* | 2023.12
+  * **Key Achievement:** 학부생 주저자로 **KCI 우수등재지** 게재 (상위 10%급 국내 최고 권위지)
+  * **Tech Stack:** Python, Scikit-learn (K-means/DBSCAN), IMU Sensor Fusion, Signal Processing
+  * **Summary:** 저비용 6축 IMU 센서를 활용하여 양치 위치를 실시간 추정하고, 비지도 학습 클러스터링을 통해 모델의 정밀도를 검증하는 알고리즘 연구
 
 ### 🌐 International Conference
 * **[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)**
