@@ -18,7 +18,7 @@
 * **[Prediction of Toothbrushing Position Based on Gyro Sensor Data and its Validation Using Unsupervised Learning-based Clustering](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)**
   * *Journal of KIPS (KCI 우수등재)* | 2023.12
   * 6축 IMU 센서 데이터 기반 양치 위치 추정 알고리즘 및 비지도 학습을 통한 검증 연구 로직 설계
-  * **Tech:** Python, Scikit-learn, Signal Processing
+  * **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white">
 
 ### Conference
 * **[A Machine Learning Model for Toothbrush Position Tracking using a Low-cost 6-axis IMU Sensor](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11710267)**
@@ -29,29 +29,29 @@
 ## 💻 Key Projects
 
 ### [Dr-GNU: Conversational Dementia Care AI](https://github.com/doyoon530/Dr-GNU)
-* **Description:** 음성 상호작용을 통해 사용자의 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션
-* **Tech:** JavaScript, Node.js, AI Interaction
-* **Role:** 음성 인터페이스 구축 및 데이터 기반 인지 리스크 신호 분석 시스템 설계
+* **Description:** 음성 상호작용을 통해 인지 위험 신호를 분석하고 시각화하는 치매 케어 솔루션
+* **Tech:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white">
+* **Role:** 음성 데이터를 활용한 인지 기능 리스크 분석 알고리즘 및 대화형 인터페이스 구현
 
 ### [Llama-STT Chatbot](https://github.com/doyoon530/Llama_STT_chatbot)
-* **Description:** 웹 기반 실시간 음성 인식(STT) 및 Llama 2 모델을 연동한 대화형 AI 챗봇
-* **Tech:** Python, Llama-2, Speech-to-Text
-* **Role:** 대형언어모델(LLM) 서빙 및 로컬 환경에서의 음성-텍스트 변환 파이프라인 구축
+* **Description:** 웹 환경에서 음성을 텍스트로 변환(STT)하고 Llama 2 모델을 통해 실시간 대화를 수행하는 시스템
+* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Meta-Llama--2-041028?style=flat-square&logo=meta&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI--Whisper-412991?style=flat-square&logo=openai&logoColor=white">
+* **Role:** 로컬 LLM 환경 구축 및 음성-텍스트 변환 파이프라인 설계를 통한 대화형 챗봇 개발
 
-### [IMU Clustering (kmeans_pca5)](https://github.com/doyoon530/kmeans_pca5)
-* **Description:** IMU 센서의 자이로 데이터를 분석하여 양치 위치를 판별하는 클러스터링 로직 (논문 핵심 알고리즘)
-* **Tech:** Python, Scikit-learn (K-means, PCA), Matplotlib
-* **Role:** 자이로 데이터 전처리, 특성 추출(Feature Extraction) 및 비지도 학습 기반 위치 분류 알고리즘 검증
+### [IMU Clustering Implementation (kmeans_pca5)](https://github.com/doyoon530/kmeans_pca5)
+* **Description:** IMU 센서의 자이로 데이터를 기반으로 양치 구역을 추정하는 클러스터링 핵심 로직 (**KCI 논문 구현체**)
+* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black">
+* **Role:** 데이터 차원 축소(PCA) 및 비지도 학습 기반의 행동 패턴 군집화 알고리즘 검증
 
 ---
 
 ## 🛠 Skills
 
-### Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+### AI & Data Science
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
 
-### Knowledgeable
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+### Software Development
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">
 
 ---
 
