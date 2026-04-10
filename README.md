@@ -21,17 +21,7 @@
 
 ## 👋 About Me
 
-안녕하세요.  
-저는 **임베디드 센서 데이터 분석**과 **실용적인 AI 시스템 설계**에 관심을 두고 공부하는 학생입니다.
-
-단순히 모델을 구현하는 것에 그치지 않고,  
-**데이터 수집 → 분석 로직 설계 → 모델 적용 → 사용자 인터페이스 구현**까지  
-하나의 흐름으로 완성하는 개발을 지향합니다.
-
-- 경상국립대학교 **AI정보공학과**
-- 관심 분야: **AI, Data Engineering, Embedded Sensor Data Analysis, Applied Machine Learning**
-- 주요 키워드: **음성 기반 분석, 헬스케어 AI, 센서 데이터 처리, 실용적 AI 서비스**
-- 목표: **연구 아이디어를 실제로 동작하는 시스템으로 구현하는 개발자**
+<img src="https://terminal-identity-opal.vercel.app/api?name=doyoon530&username=doyoon530&role=경상국립대학교+AI+정보공학과+학부생&tagline=Building+tiny+tools+with+taste.&status=available+for+cool+internet+projects&command=npx+terminal-identity&theme=amber%2Fsolar&avatar=GG&pattern=grid&width=900&height=550&langCount=5&langStyle=icons&iconSize=lg&bio=안녕하세요.++저는+**임베디드+센서+데이터+분석**과+**실용적인+AI+시스템+설계**에+관심을+두고+공부하는+학생입니다.+단순히+모델을+구현하는+것에+그치지+않고%2C++**데이터+수집+→+분석+로직+설계+→+모델+적용+→+사용자+인터페이스+구현**까지+하나의+흐름으로+완성하는+개발을+지향합니다.%0A-+목표%3A+**연구+아이디어를+실제로+동작하는+시스템으로+구현하는+개발자**" width="100%" alt="Terminal identity card" />
 
 ---
 
