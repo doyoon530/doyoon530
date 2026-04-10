@@ -17,7 +17,12 @@
 
 ## 👋 About Me
 
-<img src="https://terminal-identity-opal.vercel.app/api?name=김도윤&username=doyoon530&role=경상국립대학교+AI+정보공학과+학부생&tagline=Building+tiny+tools+with+taste.&status=available+for+cool+internet+projects&command=npx+terminal-identity&theme=amber%2Fsolar&avatar=GG&pattern=grid&width=900&height=470&langCount=5&langStyle=icons&iconSize=lg&bio=안녕하세요.++저는+**실용적인+AI+시스템+설계**에+관심을+두고+공부하는+학생입니다.+단순히+모델을+구현하는+것에+그치지+않고%2C++**데이터+수집+→+분석+로직+설계+→+모델+적용+→+사용자+인터페이스+구현**까지+하나의+흐름으로+완성하는+개발을+지향합니다.&v=2" width="100%" alt="Terminal identity card" />
+<p align="center">
+  <a href="https://terminal-identity-opal.vercel.app">
+    <img src="https://terminal-identity-opal.vercel.app/api?name=Kim+Do-yun&username=doyoon530&role=AI+Student+%26+Frontend+Dev&tagline=Exploring+the+intersection+of+AI+and+UI+Design.&status=Learning+AI+Agents+%26+LLMs&command=npx+terminal-identity&theme=amber%2Fsolar&avatar=GG&pattern=grid&width=900&height=520&showContribs=on&contribTheme=constellation&showLangs=on&langCount=5&langStyle=icons&iconSize=sm&bio=-%20%F0%9F%A7%A0%20**Focus%3A**%20Studying%20AI%20integration%20in%20modern%20web%20apps.%0A-%20%F0%9F%9B%A0%EF%B8%8F%20**Activity%3A**%20Experimenting%20with%20AI%20Agents%20%26%20Claude+Code.%0A-%20%E2%9C%A8%20**Vision%3A**%20Building+smart+tools+with+a+tasteful+UI.&v=35" 
+    width="100%" alt="Terminal Identity demo card" />
+  </a>
+</p>
 
 ---
 
