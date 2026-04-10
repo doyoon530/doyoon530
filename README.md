@@ -11,10 +11,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/doyoon530?style=for-the-badge&logo=github)](https://github.com/doyoon530)
 [![Profile Views](https://komarev.com/ghpvc/?username=doyoon530&style=for-the-badge)](https://github.com/doyoon530)
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Embedded+Sensor+Data+Analysis;Practical+AI+System+Design;Speech+AI+%2F+Healthcare+AI+%2F+Applied+ML;Research+Idea+to+Working+System)](https://git.io/typing-svg)
-
 </div>
 
 ---
