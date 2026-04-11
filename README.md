@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://terminal-identity-opal.vercel.app">
-    <img src="https://terminal-identity-opal.vercel.app/api?name=Doyoon&username=doyoon530&role=AI+Student+%26+Frontend+Dev&tagline=Exploring+the+intersection+of+AI+and+UI+Design.&status=Learning+AI+Agents+%26+LLMs&command=npx+terminal-identity&theme=amber%2Fsolar&avatar=GG&pattern=grid&width=900&height=520&showContribs=on&contribTheme=constellation&showLangs=on&langCount=5&langStyle=icons&iconSize=sm&bio=-%20%F0%9F%A7%A0%20**Focus%3A**%20Studying%20AI%20integration%20in%20modern%20web%20apps.%0A-%20%F0%9F%9B%A0%EF%B8%8F%20**Activity%3A**%20Experimenting%20with%20AI%20Agents%20%26%20Claude+Code.%0A-%20%E2%9C%A8%20**Vision%3A**%20Building+smart+tools+with+a+tasteful+UI.&v=45" 
+    <img src="https://terminal-identity-opal.vercel.app/api?name=doyoon&username=doyoon530&role=AI+Student+%26+Frontend+Dev&tagline=Exploring+the+intersection+of+AI+and+UI+Design.&status=Learning+AI+Agents+%26+LLMs&command=npx+terminal-identity&theme=amber%2Fsakura&avatar=GG&pattern=grid&width=900&showContribs=on&contribTheme=cat&contribRange=16w&contribMode=focus&showLangs=on&langCount=4&langStyle=icons&iconSize=sm&barStyle=blocks&bio=-%20%F0%9F%A7%A0%20**Focus%3A**%20Studying%20AI%20integration%20in%20modern%20web%20apps.%0A-%20%F0%9F%9B%A0%EF%B8%8F%20**Activity%3A**%20Experimenting%20with%20AI%20Agents%20%26%20Claude+Code.%0A-%20%E2%9C%A8%20**Vision%3A**%20Building+smart+tools+with+a+tasteful+UI."
     width="100%" alt="Terminal Identity demo card" />
   </a>
 </p>
